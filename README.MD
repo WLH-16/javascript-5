@@ -431,23 +431,23 @@ const evensArray = myArray.filter((element) => {
 ## Context
 
 ### Video Resource
-* [LearnCode.academy - Context Tutorial](https://www.youtube.com/watch?v=fjJoX9F_F5g) - video that is easy to follow along with that really breaks it down well
+[LearnCode.academy - Context Tutorial](https://www.youtube.com/watch?v=fjJoX9F_F5g) - video that is easy to follow along with that really breaks it down well
 #### Other Links
-* [javascript.info - Context](https://javascript.info/object-methods) - using 'this' with objects and their methods
+[javascript.info - Context](https://javascript.info/object-methods) - using 'this' with objects and their methods
 
-* [MDN - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) -'this' keyword documentation
+[MDN - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) -'this' keyword documentation
 
 ### Arrow Functions
 
 #### Video Resource
-* [freeCodeCamp.org - Arrow Functions](https://www.youtube.com/watch?v=22fyYvxz-do) - good overview and explanation of arrow functions
+[freeCodeCamp.org - Arrow Functions](https://www.youtube.com/watch?v=22fyYvxz-do) - good overview and explanation of arrow functions
 
 #### Other Links
-* [javascript.info - Arrow Functions Basics](https://javascript.info/arrow-functions-basics) - this and the one below go about as in-depth as possible.
+[javascript.info - Arrow Functions Basics](https://javascript.info/arrow-functions-basics) - this and the one below go about as in-depth as possible.
 
-* [javascript.info - Arrow Functions Advanced](https://javascript.info/arrow-functions) - this one is more advanced than the basics one above
+[javascript.info - Arrow Functions Advanced](https://javascript.info/arrow-functions) - this one is more advanced than the basics one above
 
-* [MDN - Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) - MDN docs on arrow functions - great for syntax examples and links to other topics related to arrow functions
+[MDN - Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) - MDN docs on arrow functions - great for syntax examples and links to other topics related to arrow functions
 
 ## Constructor Functions
 
@@ -455,18 +455,18 @@ const evensArray = myArray.filter((element) => {
 * [Avelx - Contructor Function Tutorial](https://www.youtube.com/watch?v=lP_7H467pA8) - very easy to follow, albeit slow video on constructor functions
 
 ### Other Resources
-* [javascript.info - Constructor Functions](https://javascript.info/constructor-new) - best resource I've found on constructor functions that doesn't go too deep into classes
+[javascript.info - Constructor Functions](https://javascript.info/constructor-new) - best resource I've found on constructor functions that doesn't go too deep into classes
 
-* [MDN - Constructor Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor) - this might make more sense after reading the Object_prototypes article from MDN below but is still a good reference on constructors
+[MDN - Constructor Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor) - this might make more sense after reading the Object_prototypes article from MDN below but is still a good reference on constructors
 
 ## Prototypes
 ### Video Resource
-* [Tyler McGinnis - Prototypes](https://www.youtube.com/watch?v=XskMWBXNbp0) - example-heavy video on prototypes.  @9:44 it gives a really good definition of prototypes
+[Tyler McGinnis - Prototypes](https://www.youtube.com/watch?v=XskMWBXNbp0) - example-heavy video on prototypes.  @9:44 it gives a really good definition of prototypes
 
 ### Other Resources
-* [MDN - Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes) - more of an article than a syntax heavy reference, this talks about what prototypes are and why they're used
+[MDN - Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes) - more of an article than a syntax heavy reference, this talks about what prototypes are and why they're used
 
-* [Geeks for Geeks - Prototypes](https://www.geeksforgeeks.org/prototype-in-javascript/) - this article has good graphics to help understanding
+[Geeks for Geeks - Prototypes](https://www.geeksforgeeks.org/prototype-in-javascript/) - this article has good graphics to help understanding
 
 # JavaScript 5 Mini Project
 Embedded in Unit 2.3 at https://lms.devmountain.com/courses/70
