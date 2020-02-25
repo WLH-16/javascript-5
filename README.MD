@@ -452,7 +452,7 @@ const evensArray = myArray.filter((element) => {
 ## Constructor Functions
 
 ### Video Resource
-* [Avelx - Contructor Function Tutorial](https://www.youtube.com/watch?v=lP_7H467pA8) - very easy to follow, albeit slow video on constructor functions
+[Avelx - Contructor Function Tutorial](https://www.youtube.com/watch?v=lP_7H467pA8) - very easy to follow, albeit slow video on constructor functions
 
 ### Other Resources
 [javascript.info - Constructor Functions](https://javascript.info/constructor-new) - best resource I've found on constructor functions that doesn't go too deep into classes
